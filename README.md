@@ -6,9 +6,9 @@
 
 ### Connect with me:
 
-[<img align='left' alt='elalfee Linkedin' width='22px' src='https://www.svgrepo.com/show/354000/linkedin-icon.svg'/>][linkedin]
-[<img align='left' alt='elalfee Insta' width='22px' src='https://www.svgrepo.com/show/349410/instagram.svg'/>][instagram]
-[<img align='left' alt='elalfee FB' width='26px' src='https://www.svgrepo.com/show/431621/facebook.svg'/>][fb]
+[<img align='left' alt='elalfee Linkedin' width='32px' src='https://www.svgrepo.com/show/354000/linkedin-icon.svg'/>][linkedin]
+[<img align='left' alt='elalfee Insta' width='32px' src='https://www.svgrepo.com/show/349410/instagram.svg'/>][instagram]
+[<img align='left' alt='elalfee FB' width='32px' src='https://www.svgrepo.com/show/431621/facebook.svg'/>][fb]
 
 <br/>
 

@@ -6,9 +6,9 @@
 
 ### Connect with me:
 
-[<img align='left' alt='elalfee Linkedin' width='22px' src='https://www.svgrepo.com/show/354000/linkedin-icon.svg'/>][linkedin]
-[<img align='left' alt='elalfee FB' width='22px' src='https://www.svgrepo.com/show/419926/facebook-fb-social-icon.svg'/>][fb]
-[<img align='left' alt='elalfee Insta' width='22px' src='https://www.svgrepo.com/show/424911/instagram-logo-facebook-2.svg'/>][instagram]
+[<img align='left' alt='elalfee Linkedin' width='22px' src='https://www.svgrepo.com/show/354000/linkedin-icon.svg'/>][https://www.linkedin.com/in/abdelrahman-elalfee/]
+[<img align='left' alt='elalfee FB' width='22px' src='https://www.svgrepo.com/show/431621/facebook.svg'/>][https://www.facebook.com/aelalfee]
+[<img align='left' alt='elalfee Insta' width='22px' src='https://www.svgrepo.com/show/349410/instagram.svg'/>][https://www.instagram.com/abdelrahman_elalfee/]
 
 ### 👨🏻‍💻 Language and tools:
 
@@ -21,7 +21,3 @@
 [<img align='left' alt='SQL' width='32px' src='https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667'/>]
 [<img align='left' alt='Terminal' width='32px' src='https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/terminal-dark.svg'/>]
 [<img align='left' alt='GIT' width='32px' src='https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667'/>]
-
-[linkedin]: https://www.linkedin.com/in/abdelrahman-elalfee/
-[fb]: https://www.facebook.com/aelalfee
-[instagram]: https://www.instagram.com/abdelrahman_elalfee/

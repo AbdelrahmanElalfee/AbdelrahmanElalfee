@@ -23,7 +23,7 @@
 [<img align='left' alt='SQL' width='32px' src='https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667'/>][github]
 [<img align='left' alt='Terminal' width='32px' src='https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/terminal-dark.svg'/>][github]
 [<img align='left' alt='GIT' width='32px' src='https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667'/>][github]
-[<img align='left' alt='Docker' width='32px' src='https://cdn-icons-png.flaticon.com/128/919/919853.png'/>][github]
+[<img align='left' alt='Docker' width='32px' src='[https://cdn-icons-png.flaticon.com/128/919/919853.png](https://www.svgrepo.com/show/303231/docker-logo.svg)'/>][github]
 
 [linkedin]: https://www.linkedin.com/in/abdelrahman-elalfee/
 [fb]: https://www.facebook.com/aelalfee

@@ -27,6 +27,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/abdelrahman-elalfee/
-[fb]: https://www.facebook.com/aelalfee
-[instagram]: https://www.instagram.com/abdelrahman_elalfee/
 [github]: https://github.com/AbdelrahmanElalfee

@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Cairo, Egypt
+* 🌍  I'm based in Dubai, United Arab Emirates
 * 🖥️  See my portfolio at [elalfee.com](http://elalfee.com)
 * ✉️  You can contact me at [abdelrahman@elalfee.com](mailto:abdelrahman@elalfee.com)
 

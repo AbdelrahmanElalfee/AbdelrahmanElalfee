@@ -10,7 +10,7 @@ Strategic Backend Developer with a proven track record of success in designing, 
 * 🖥️  See my portfolio at [elalfee.com](http://elalfee.com)
 * ✉️  You can contact me at [abdelrahman@elalfee.com](mailto:abdelrahman@elalfee.com)
 * 🧠  I'm learning Amazon Web Services (AWS)
-* 🤝  I'm open to collaborating on Telematics project
+* 🚀  I'm currently working on Telematics project
 
 ### Skills
 
